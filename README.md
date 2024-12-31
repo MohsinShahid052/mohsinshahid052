@@ -5,13 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **ZenFilter-Extension**
-
-- 🌱 I’m currently learning **Voice Assistant and AI**
+- 🔭 I’m currently working on **Voice Assistant and Agent**
 
 - 👯 I’m looking to collaborate on **Dart and Flutter Projects**
 
-- 💬 Ask me about **Server-side programming, Flutter**
+- 💬 Ask me about **Server-side programming**
 
 - 📫 How to reach me **mohsinshahid052@gmail.com**
 
