@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin Shahid</h1>
-<h3 align="center">A passionate Flutter Developer from Pakistan</h3>
+<h3 align="center">A passionate Python Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinshahid052&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinshahid052" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ZenFilter-Extension**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Voice Assistant and AI**
 
 - 👯 I’m looking to collaborate on **Dart and Flutter Projects**
 
