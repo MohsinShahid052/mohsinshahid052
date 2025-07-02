@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Voice Assistant and Agent**
 
-- 👯 I’m looking to collaborate on **Dart and Flutter Projects**
+- 👯 I’m looking to collaborate on **Model training and Rag Base Projects**
 
 - 💬 Ask me about **Server-side programming**
 
