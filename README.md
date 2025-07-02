@@ -1,5 +1,5 @@
 <h1 align="center">Mohsin Shahid</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">AI Engineer | Generative AI & LLMs Enthusiast | Building smart tools with data and code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinshahid052&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinshahid052" /> </p>
 
